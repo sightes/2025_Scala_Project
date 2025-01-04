@@ -49,3 +49,121 @@ ADVERTENCIA: Unmatched cancel notification for request id 1
 2025.01.02 00:07:18 INFO  shutting down Metals
 2025.01.02 00:07:18 INFO  Shut down connection with build server.
 2025.01.02 00:07:18 INFO  Exiting server
+2025.01.03 22:53:29 INFO  Started: Metals version 1.4.2 in folders '/Users/sightes/Documents/GITHUB/2025_Scala_Project' for client Visual Studio Code 1.96.2.
+2025.01.03 22:53:30 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:39 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:39 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:39 WARN  Could not find semantic tokens for: file:///Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt
+2025.01.03 22:53:41 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:42 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:43 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:43 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:43 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:43 WARN  Could not find semantic tokens for: file:///Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt
+2025.01.03 22:53:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:53 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:54 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:59 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:59 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:54:00 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala
+2025.01.03 22:54:00 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:59 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:53:59 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:54:01 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:54:01 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:54:01 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:54:01 WARN  Could not find semantic tokens for: file:///Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt
+2025.01.03 22:54:01 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:54:01 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt
+2025.01.03 22:54:01 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:54:01 WARN  Could not find semantic tokens for: file:///Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/build.sbt
+2025.01.03 22:54:49 INFO  Shutting down server
+2025.01.03 22:54:49 INFO  shutting down Metals
+2025.01.03 22:54:49 INFO  Exiting server
+2025.01.03 22:54:56 INFO  Started: Metals version 1.4.2 in folders '/Users/sightes/Documents/GITHUB/2025_Scala_Project' for client Visual Studio Code 1.96.2.
+2025.01.03 22:54:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 03, 2025 10:54:58 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 3
+ene 03, 2025 10:54:58 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5
+ene 03, 2025 10:54:58 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+ene 03, 2025 10:54:58 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2025.01.03 22:54:58 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:55:24 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:55:24 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:55:26 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:57:47 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:57:48 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:57:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:57:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:57:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 22:57:58 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:18 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:18 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:18 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:19 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:19 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:19 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:20 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:32 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:32 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:32 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:32 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:33 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:33 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:36 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:36 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:36 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:03:45 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:05:35 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:05:58 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:05:58 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:06 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:08 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:12 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:13 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:13 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:13 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:14 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:14 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:16 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:16 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:16 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:17 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:26 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:06:26 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:07:27 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:07:27 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:07:28 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:07:28 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:09:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:09:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:09:07 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:09:09 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:09:10 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:10:38 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:18 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:18 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:19 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:22 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:29 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:29 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:29 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:50 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:58 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:58 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:11:59 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:12:00 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala
+2025.01.03 23:12:00 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.03 23:12:00 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
