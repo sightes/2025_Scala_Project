@@ -710,3 +710,36 @@ org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequ
 2025.01.06 09:05:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
 2025.01.06 09:05:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
 2025.01.06 09:05:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:05:41 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:06:44 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Calculadora_Basica/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:06:49 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/hello_scala/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:07:45 INFO  Shutting down server
+2025.01.06 09:07:45 INFO  shutting down Metals
+2025.01.06 09:07:45 INFO  Exiting server
+2025.01.06 09:08:02 INFO  Started: Metals version 1.4.2 in folders '/Users/sightes/Documents/GITHUB/2025_Scala_Project' for client Visual Studio Code 1.96.2.
+2025.01.06 09:08:03 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:03 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:04 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:03 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:03 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.06 09:08:03 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Crear_reporte_PDF/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 06, 2025 9:08:04 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 8
+ene 06, 2025 9:08:04 A.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 9
+2025.01.06 09:08:49 INFO  Shutting down server
+2025.01.06 09:08:49 INFO  shutting down Metals
+2025.01.06 09:08:49 INFO  Exiting server
+2025.01.06 09:08:49 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
