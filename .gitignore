@@ -1,0 +1,34 @@
+# IntelliJ IDEA y VSCode
+.idea/
+.vscode/
+
+# Maven y SBT
+.mvn/
+target/
+project/target/
+project/project/
+
+# Archivos específicos del sistema
+*.class
+*.log
+*.out
+
+# Configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos generados por compiladores o herramientas
+#*.jar
+#*.war
+#*.zip
+
+# Archivos de logs
+*.log
+
+# Archivos de respaldo y temporales
+*.tmp
+*.bak
+~*
+
+# Maven local
+.maven/

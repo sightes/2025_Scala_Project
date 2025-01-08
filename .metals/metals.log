@@ -974,3 +974,73 @@ ADVERTENCIA: Unmatched cancel notification for request id 8
 2025.01.07 20:27:34 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Simple_scala_api/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
 2025.01.07 20:27:35 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Scala_Project/Simple_scala_api/src/main/scala/Main.scala
 2025.01.07 20:27:35 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Simple_scala_api/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Simple_scala_api/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Simple_scala_api/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:55 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/Simple_scala_api/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:55 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/leer_excel/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:55 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/leer_excel/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:55 WARN  Could not find semantic tokens for: file:///Users/sightes/Documents/GITHUB/2025_Scala_Project/leer_excel/build.sbt
+2025.01.07 22:32:55 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/leer_excel/build.sbt. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:32:56 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.07 22:33:20 INFO  Shutting down server
+2025.01.07 22:33:20 INFO  shutting down Metals
+2025.01.07 22:33:20 INFO  Exiting server
+2025.01.07 22:33:21 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1570)
+
+2025.01.08 18:38:50 INFO  Started: Metals version 1.4.2 in folders '/Users/sightes/Documents/GITHUB/2025_Scala_Project' for client Visual Studio Code 1.96.2.
+2025.01.08 18:38:50 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+ene 08, 2025 6:38:52 P.M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2
+2025.01.08 18:38:52 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.01.08 18:38:52 WARN  Could not find semantic tokens for: file:///Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala
+2025.01.08 18:38:59 INFO  running '/opt/homebrew/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.01.08 18:38:59 INFO  copying runtime jar...
+2025.01.08 18:39:05 INFO  [info] welcome to sbt 1.10.7 (Eclipse Adoptium Java 22.0.1)
+2025.01.08 18:39:05 INFO  [info] loading settings for project sqlite_data_insert-build-build from metals.sbt...
+2025.01.08 18:39:07 INFO  [info] loading project definition from /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/project/project
+2025.01.08 18:39:07 INFO  [info] loading settings for project sqlite_data_insert-build from metals.sbt...
+2025.01.08 18:39:08 INFO  [info] loading project definition from /Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/project
+2025.01.08 18:39:11 INFO  [success] Generated .bloop/sqlite_data_insert-build.json
+2025.01.08 18:39:11 INFO  [success] Total time: 3 s, completed 8 ene 2025, 6:39:11 p.m.
+2025.01.08 18:39:11 INFO  [info] loading settings for project sqlite_data_insert from build.sbt...
+2025.01.08 18:39:11 INFO  [info] set current project to sqlite_data_insert (in build file:/Users/sightes/Documents/GITHUB/2025_Scala_Project/sqlite_data_insert/)
+2025.01.08 18:39:14 INFO  [success] Generated .bloop/sqlite_data_insert.json
+2025.01.08 18:39:14 INFO  [success] Generated .bloop/sqlite_data_insert-test.json
+2025.01.08 18:39:14 INFO  [success] Total time: 2 s, completed 8 ene 2025, 6:39:14 p.m.
+2025.01.08 18:39:14 INFO  time: ran 'sbt bloopInstall' in 14s
+2025.01.08 18:39:14 INFO  Attempting to connect to the build server...
+2025.01.08 18:39:14 INFO  No running Bloop server found, starting one.
+2025.01.08 18:39:14 INFO  Starting compilation server
+2025.01.08 18:39:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/sightes/Documents/GITHUB/2025_Scala_Project/.metals/bsp.trace.json or /Users/sightes/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.01.08 18:39:15 INFO  time: Connected to build server in 1.45s
+2025.01.08 18:39:15 INFO  Connected to Build server: Bloop v2.0.6
+2025.01.08 18:39:15 INFO  running doctor check
+2025.01.08 18:39:15 INFO  java targets: sqlite_data_insert-test, sqlite_data_insert
+2025.01.08 18:39:17 INFO  time: indexed workspace in 2.45s
+2025.01.08 18:39:18 WARN  no build target for: /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala
+2025.01.08 18:39:37 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 18:39:37 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 18:39:38 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 18:39:38 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 18:39:38 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 18:41:49 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 19:01:55 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 19:01:55 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 19:01:55 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 19:01:57 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 19:01:59 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 19:36:25 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
+2025.01.08 19:40:37 INFO  no build target found for /Users/sightes/Documents/GITHUB/2025_Scala_Project/simple_maven_project/src/main/scala/Main.scala. Using presentation compiler with project's scala-library version: 2.13.12
