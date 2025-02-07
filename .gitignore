@@ -32,3 +32,14 @@ Thumbs.db
 
 # Maven local
 .maven/
+/Simple_scala_api/project
+/Simple_scala_api/project
+/simple_maven_project/Simple_scala_api/project
+/Simple_scala_api/target
+/simple_maven_project/Simple_scala_api/src
+/Simple_scala_api/project/target/config-classes
+/simple_maven_project
+/Simple_scala_api
+/simple_maven_project
+/Simple_scala_api/target/streams
+/Simple_scala_api/target
