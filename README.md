@@ -1,91 +1,73 @@
-Allowed languages: `Rust`, `sql` & `bash`.
+# 🐾 30 Days of Learning Scala
 
-Let's create a new project:
+Welcome to your 30-day journey to master Scala, a powerful hybrid functional and object-oriented language. This roadmap is designed to gradually build your knowledge and skills with practical, focused daily topics. Let's dive in! 🚀
 
-```bash
-# Create your project structure
-make analysis=spot_segmentation
+---
 
-# Delete project structure (remember to commit your progress)
-make clean analyis=spot_segmentation
-```
+## 📅 Day-by-Day Plan
 
-**Directory Structure**
+| Day | Topic                             | Status      |
+|-----|-----------------------------------|-------------|
+| 01  | Introduction to Scala & Setup     | Coming Up   |
+| 02  | Variables, Values & Data Types    | Coming Up   |
+| 03  | Control Structures                | Coming Up   |
+| 04  | Functions & Methods               | Coming Up   |
+| 05  | Collections Overview              | Coming Up   |
+| 06  | Lists, Sets & Maps                | Coming Up   |
+| 07  | Tuples & Option Type              | Coming Up   |
+| 08  | Pattern Matching                  | Coming Up   |
+| 09  | Classes and Objects               | Coming Up   |
+| 10  | Case Classes                      | Coming Up   |
+| 11  | Traits & Mixins                   | Coming Up   |
+| 12  | Higher-Order Functions            | Coming Up   |
+| 13  | Anonymous Functions               | Coming Up   |
+| 14  | Closures                          | Coming Up   |
+| 15  | Recursion                         | Coming Up   |
+| 16  | For Comprehensions                | Coming Up   |
+| 17  | Error Handling with Try & Either | Coming Up   |
+| 18  | Working with Files & I/O         | Coming Up   |
+| 19  | Collections: Advanced Operations | Coming Up   |
+| 20  | Functional Programming Principles | Coming Up   |
+| 21  | Immutable vs Mutable Collections | Coming Up   |
+| 22  | Futures & Concurrency Basics      | Coming Up   |
+| 23  | Working with JSON (Play JSON)     | Coming Up   |
+| 24  | SBT & Build Tools                 | Coming Up   |
+| 25  | Unit Testing with ScalaTest      | Coming Up   |
+| 26  | Introduction to Akka Actors       | Coming Up   |
+| 27  | Working with Databases (JDBC/Doobie) | Coming Up |
+| 28  | Web Development (Play Framework) | Coming Up   |
+| 29  | Writing a CLI Tool in Scala      | Coming Up   |
+| 30  | Final Project & Wrap-up          | Coming Up   |
 
-* snake_case https://en.wikipedia.org/wiki/Snake_case e.g. The project title is Spot Segmentation, the folder should be spot_segmentation
-* date analysis: this kind of analysis are time related, you're not expected to work more on this after the release of the results YYYY_MM_DD_<project_name> e.g. 2024_04_03_exploratory_supply.
+---
 
-> Practical usage: [./demo/explore.ipynb](./demo/explore.ipynb)
+## ✅ How to Use This
 
-Rationale about this rules: https://medium.com/@joshuale/a-practical-guide-to-python-project-structure-and-packaging-90c7f7a04f95
+- Each day has its own folder: `dayXX-topic-name`
+- Inside each folder, you will find:
+  - Scala source files (`.scala`)
+  - A README explaining the concepts with examples
+  - A mini-exercise or challenge
 
-Expected folder structure:
-```bash
-/<analysis>
-    /sql
-        <query>.sql
-        ...
-    __iniy__.py
-    main.py
-    explore.ipynb
-    README.md
-```
+---
 
-**How to read SQL files?**
+## 🧠 Tips
 
-* [https://stackoverflow.com/a/19473206/8567062](https://stackoverflow.com/a/19473206/8567062)
-* https://docs.sqlfluff.com/en/stable/configuration.html#jinja-templater
+- Practice daily, even if it's just 30 minutes.
+- Don’t be afraid to revisit earlier topics.
+- Document what you learn—it reinforces retention.
+- Join Scala communities for support and feedback.
 
+---
 
-**How to format SQL:**
+## 📚 Resources
 
-https://docs.sqlfluff.com/en/stable/gettingstarted.html
+- [Scala Documentation](https://docs.scala-lang.org)
+- [Scala Exercises](https://www.scala-exercises.org/)
+- [Scala on GitHub](https://github.com/scala/)
 
-```bash
-sqlfluff lint ./path/sql/*.sql --dialect mysql
-sqlfluff fix ./path/sql/*.sql --force # Can help to fix the SQL File
-```
+Happy learning and keep building! 💡
 
-2. Query Evaluation: All queries must be evaluable to determine if they will serve as the source of truth.
+---
 
-> * Use https://metabase.spot2.mx
->
-> * Use direct connection to database using python and formatting with jinja2
-
-3. Metric Idempotence: Metrics must be idempotent over equal time periods; they should yield the same numbers. This requires a consistent query and data source, both serving as the source of truth. Metrics are reproducible.
-
-> https://platform.spot2.mx is the source of truth if you need to understand a query use Telescope, docs  [here](https://spot2mx.atlassian.net/wiki/spaces/SDKB/pages/90177568/Sobre+Debugging).
-
-4. Data Transformation Documentation: Transformations applied to data must be documented.
-
-> Using panda or polars? Document your lambdas or pipelines.
-
-5. Primary Keys: The primary keys to use are the table IDs and email addresses to identify individuals.
-
-```sql
-SELECT id FROM users;
-SELECT id FROM spots;
-...
-```
-
-6. Data Privacy: Do not expose sensitive personal data such as DATABASE CREDENTIALS, names, numbers, job positions, addresses, photographs, etc.
-
-> Practical usage of .env [./demo/explore.ipynb](./demo/explore.ipynb)
-
-7. Graphical Explanations: While graphics can speak for themselves, it is beneficial to explain how they were derived.
-
-> Library for graphics:
->
-> * Static: https://seaborn.pydata.org/ TODO: Guidelines for graphs
-> * Dynamic: https://recharts.org/en-US/
-
-8. Metric Evaluation: Metrics should be evaluated from both sides using LEFT JOIN and RIGHT JOIN.
-
-> Find and report gaps in data.
-
-9. Query Optimization: Queries should be optimized once they meet the business need.
-
-
-10.  Data Storage: Information should be stored in readable formats and encoded in UTF-8, such as CSV, XLSX, JSON, PARQUET, and SQL files.
-
-> This repository ignores all this kind of files, those are only final files.
+*This document will evolve as we progress—check back daily for updates!* ✨
